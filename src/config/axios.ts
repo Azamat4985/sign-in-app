@@ -1,6 +1,4 @@
 import axios from "axios";
-import * as process from "process";
-import jsConvert from "js-convert-case";
 import { caseConverter } from "@/utils/caseConverter";
 
 const axiosInstance = axios.create({
