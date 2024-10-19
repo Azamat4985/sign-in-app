@@ -1,0 +1,19 @@
+{
+  "Введите номер телефона": "Enter phone number",
+  "Чтобы войти или зарегистрироваться": "To sign in or register",
+  "Страна": "Country",
+  "Поиск": "Search",
+  "Номер телефона": "Phone number",
+  "Продолжить": "Continue",
+  "Конфиденциальность": "Privacy policy",
+  "Условия": "Agreement",
+  "Введите код": "Enter the code",
+  "Отправлен по номеру": "Sent to",
+  "Назад": "Back",
+  "Способ получения кода": "Method of obtaining code",
+  "Отправить": "Send",
+  "Вы все еще не авторизованы в боте, пожалуйста, повторите попытку": "You are still not logged into the bot, please try again",
+  "Для использования данного канала связи вам необходимо авторизоваться в боте": "To use this communication channel, you need to log in to the bot",
+  "Авторизоваться в боте": "Authorize in the bot",
+  "Проверить статус": "Checks status"
+}
